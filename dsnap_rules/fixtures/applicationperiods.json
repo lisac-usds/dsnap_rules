@@ -1,0 +1,19 @@
+[
+{
+    "model": "dsnap_rules.applicationperiod",
+    "pk": 1,
+    "fields": {
+        "disaster": 12,
+        "begin_date": "2020-01-01",
+        "end_date": "2021-01-01",
+        "registration_begin_date": "2020-01-01",
+        "registration_end_date": "2021-01-01",
+        "counties": [
+            1,
+            2,
+            3,
+            4
+        ]
+    }
+}
+]
