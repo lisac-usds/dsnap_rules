@@ -152,5 +152,47 @@
         "uses_DSED": false,
         "allows_food_loss_alone": true
     }
+},
+{
+    "model": "dsnap_rules.disaster",
+    "pk": 12,
+    "fields": {
+        "disaster_request_no": "DR-5001",
+        "title": "Covid-19",
+        "benefit_begin_date": "2020-01-01",
+        "benefit_end_date": "2021-01-01",
+        "state": "WA",
+        "residency_required": true,
+        "uses_DSED": false,
+        "allows_food_loss_alone": true
+    }
+},
+{
+    "model": "dsnap_rules.disaster",
+    "pk": 13,
+    "fields": {
+        "disaster_request_no": "DR-5002",
+        "title": "Covid-19",
+        "benefit_begin_date": "2020-02-01",
+        "benefit_end_date": "2021-02-01",
+        "state": "CA",
+        "residency_required": true,
+        "uses_DSED": false,
+        "allows_food_loss_alone": true
+    }
+},
+{
+    "model": "dsnap_rules.disaster",
+    "pk": 14,
+    "fields": {
+        "disaster_request_no": "DR-5003",
+        "title": "Covid-19",
+        "benefit_begin_date": "2020-03-01",
+        "benefit_end_date": "2021-03-01",
+        "state": "NY",
+        "residency_required": true,
+        "uses_DSED": false,
+        "allows_food_loss_alone": true
+    }
 }
 ]
